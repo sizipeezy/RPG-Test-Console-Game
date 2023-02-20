@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elfshock", "Elfshock\Elfshock.csproj", "{19BC8A53-168C-4E82-AD0D-F5DF1554BA04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BC8A53-168C-4E82-AD0D-F5DF1554BA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BC8A53-168C-4E82-AD0D-F5DF1554BA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BC8A53-168C-4E82-AD0D-F5DF1554BA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BC8A53-168C-4E82-AD0D-F5DF1554BA04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {665140FD-5068-417E-B629-4DB8FF13DE4E}
+	EndGlobalSection
+EndGlobal
